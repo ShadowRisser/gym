@@ -1,0 +1,1 @@
+self.__NEXT_BUILD_MANIFEST={}
