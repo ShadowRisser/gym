@@ -1,2 +1,3 @@
-# gym
-Gym demo - Next.js
+# Gym
+
+Fitness website
