@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:0,"staging","_",{"name":"webpack","i18n":"en","desc":"","nextExport":{},"assetPrefix":"/sites/gym/","svg":{"moduleId":"__WEBPACK_REGISTERED__"},"modules":{}}]);
